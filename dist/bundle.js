@@ -16,7 +16,7 @@
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./icon.png */ \"./src/icon.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `.hello {\r\n    color: red;\r\n    background:center url(${___CSS_LOADER_URL_REPLACEMENT_0___});\r\n    background-repeat: no-repeat;\r\n    width: 50px;\r\n    height: 50px;\r\n    font-size: 52px;\r\n }`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://webpack-demo/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-100.woff2 */ \"./src/fonts/inter-v12-latin-100.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-200.woff2 */ \"./src/fonts/inter-v12-latin-200.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-300.woff2 */ \"./src/fonts/inter-v12-latin-300.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-regular.woff2 */ \"./src/fonts/inter-v12-latin-regular.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-500.woff2 */ \"./src/fonts/inter-v12-latin-500.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-600.woff2 */ \"./src/fonts/inter-v12-latin-600.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_6___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-700.woff2 */ \"./src/fonts/inter-v12-latin-700.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_7___ = new URL(/* asset import */ __webpack_require__(/*! ./fonts/inter-v12-latin-800.woff2 */ \"./src/fonts/inter-v12-latin-800.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(/*! ./icon.png */ \"./src/icon.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_4___);\nvar ___CSS_LOADER_URL_REPLACEMENT_5___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_5___);\nvar ___CSS_LOADER_URL_REPLACEMENT_6___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_6___);\nvar ___CSS_LOADER_URL_REPLACEMENT_7___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_7___);\nvar ___CSS_LOADER_URL_REPLACEMENT_8___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_8___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `/* inter-100 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 100;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-200 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 200;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_1___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-300 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 300;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_2___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-regular - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 400;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_3___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-500 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 500;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_4___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-600 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 600;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_5___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-700 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 700;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_6___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n/* inter-800 - latin */\r\n@font-face {\r\n    font-display: swap;\r\n    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */\r\n    font-family: 'Inter';\r\n    font-style: normal;\r\n    font-weight: 800;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_7___}) format('woff2');\r\n    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */\r\n}\r\n\r\n.hello {\r\n    color: red;\r\n    font-family: 'Inter';\r\n    background:center url(${___CSS_LOADER_URL_REPLACEMENT_8___});\r\n    background-repeat: no-repeat;\r\n    width: 50px;\r\n    height: 50px;\r\n    font-size: 52px;\r\n }`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://webpack-demo/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -148,6 +148,94 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ \"./node_modules/lodash/lodash.js\");\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _icon_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./icon.png */ \"./src/icon.png\");\n\r\n\r\n\r\n\r\n\r\nfunction component() {\r\n    const element = document.createElement('div');\r\n\r\n    // Lodash, now imported by this script\r\n    element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(['Hello', 'webpack'], ' ');\r\n    element.classList.add('hello');\r\n\r\n    // Add the image to our existing div.\r\n\r\n    const myIcon = new Image();\r\n\r\n    myIcon.src = _icon_png__WEBPACK_IMPORTED_MODULE_2__;\r\n\r\n\r\n    element.appendChild(myIcon);\r\n\r\n\r\n    return element;\r\n}\r\n\r\ndocument.body.appendChild(component());\n\n//# sourceURL=webpack://webpack-demo/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-100.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-100.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9094111633a8ff639a30.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-100.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-200.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-200.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"7b1cdef5c4317d8dfe5a.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-200.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-300.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-300.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1d901654d5968b3d2af1.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-300.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-500.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-500.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"c72c72b70c82b1f4bacf.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-500.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-600.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-600.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8f1e0300e8d26fa8919d.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-600.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-700.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-700.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"54321e26b8bf4739a16d.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-700.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-800.woff2":
+/*!*********************************************!*\
+  !*** ./src/fonts/inter-v12-latin-800.woff2 ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"7e1a31f93354d23987f4.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-800.woff2?");
+
+/***/ }),
+
+/***/ "./src/fonts/inter-v12-latin-regular.woff2":
+/*!*************************************************!*\
+  !*** ./src/fonts/inter-v12-latin-regular.woff2 ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"be7cb18dc7caf47cf7e9.woff2\";\n\n//# sourceURL=webpack://webpack-demo/./src/fonts/inter-v12-latin-regular.woff2?");
 
 /***/ }),
 
