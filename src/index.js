@@ -1,11 +1,15 @@
 import _ from 'lodash';
-import my_name from './myName';
+
+import './style.css';
 
 function component() {
     const element = document.createElement('div');
 
     // Lodash, now imported by this script
-    element.textContent = my_name('Cody');
+    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
+
+    element.classList.add('hello');
+
     return element;
 }
 
